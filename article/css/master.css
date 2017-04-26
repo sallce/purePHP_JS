@@ -1,0 +1,30 @@
+body {
+  margin: 20px 15%;
+}
+
+li{
+  margin-top: 20px;
+}
+
+li header{
+  font-weight: bold;
+}
+
+article{
+  margin: 20px auto;
+}
+
+.image_group{
+  display: inline-block;
+  list-style: none;
+  width: 100%;
+}
+
+.image_group li{
+  display: inline-block;
+}
+
+.image_group img{
+  width: 150px;
+  height: 75px;
+}
